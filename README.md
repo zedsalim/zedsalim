@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">Hi 👋, I'm Salim Zaidi</h1>
-<h2 align="center">Computer Science student passionate about System Administration, Web Development, and Low-Level Programming</h2>
+<h2 align="center">Computer Science student passionate about System Administration and Web Development</h2>
 <div align="center">
     <img src="https://komarev.com/ghpvc/?username=zedsalim&style=for-the-badge&color=2F6C92" alt="profile-views"/> 
 </div>
@@ -19,7 +19,6 @@
 <h2 align="left">Interests:</h2>
 
 - 🖥️ Configuring and maintaining servers & Home-Labs
-- 💣 Pentesting & Binary Exploitation
 - 🌐 Web Development & Security
 - 🐧 Linux & Sysadmin stuff
 - 🖧 Networking & DevOps stuff
@@ -62,8 +61,7 @@
 ![](https://img.shields.io/badge/PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=2F6C92)
 ![](https://img.shields.io/badge/MySQL-informational?style=flat&logo=mysql&logoColor=white&color=2F6C92)
 ![](https://img.shields.io/badge/SQLite-informational?style=flat&logo=sqlite&logoColor=white&color=2F6C92)
-![](https://img.shields.io/badge/Firebase-informational?style=flat&logo=firebase&logoColor=white&color=2F6C92) , 
-![](https://img.shields.io/badge/GDB-informational?style=flat&logo=gnu&logoColor=white&color=2F6C92) , ![](https://img.shields.io/badge/Photoshop-informational?style=flat&logo=adobe-photoshop&logoColor=white&color=2F6C92)
+![](https://img.shields.io/badge/Firebase-informational?style=flat&logo=firebase&logoColor=white&color=2F6C92)
 
 
 <h2 align="left">Github Stats:</h2>
