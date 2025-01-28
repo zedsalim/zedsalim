@@ -8,7 +8,7 @@
     <img src="https://komarev.com/ghpvc/?username=zedsalim&style=for-the-badge&color=2F6C92" alt="profile-views"/> 
 </div>
 
-- 🚀 All of my projects are available at my [Portfolio](https://salimzaidi.site)
+- 🚀 All of my projects are available at my [salimzaidi.site](https://salimzaidi.site)
 
 - ✉️ Contact me at **contact@salimzaidi.site**
 
@@ -31,6 +31,7 @@
 <h2 align="left">Languages:</h2>
 
 ![](https://img.shields.io/badge/C-informational?style=flat&logo=c&logoColor=white&color=2F6C92)
+![](https://img.shields.io/badge/Java-informational?style=flat&logo=java&logoColor=white&color=2F6C92)
 ![](https://img.shields.io/badge/Python-informational?style=flat&logo=python&logoColor=white&color=2F6C92)
 ![](https://img.shields.io/badge/Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=2F6C92)
 ![](https://img.shields.io/badge/JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2F6C92)
