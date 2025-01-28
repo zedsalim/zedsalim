@@ -8,7 +8,7 @@
     <img src="https://komarev.com/ghpvc/?username=zedsalim&style=for-the-badge&color=2F6C92" alt="profile-views"/> 
 </div>
 
-- 🚀 All of my projects are available at my [salimzaidi.site](https://salimzaidi.site)
+- 🚀 All of my projects are available at  [salimzaidi.site](https://salimzaidi.site)
 
 - ✉️ Contact me at **contact@salimzaidi.site**
 
