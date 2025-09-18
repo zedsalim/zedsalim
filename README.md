@@ -15,9 +15,9 @@
 </p>
 
 <p align="center">
-  <a href="mailto:contact@salimzaidi.site">Email</a> ·
+  <a href="mailto:zedsalim@proton.me">Email</a> ·
   <a href="https://www.linkedin.com/in/zedsalim/">LinkedIn</a> ·
-  <a href="https://salimzaidi.site">Website</a>
+  <a href="https://salimzaidi.netlify.app/">Website</a>
 </p>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=zedsalim&show_icons=true&hide_title=true&hide_border=true&theme=highcontrast" alt="GitHub Stats">
