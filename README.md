@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <strong>Software Engineer</strong> · <strong>Sysadmin</strong> · <strong>DevOps</strong>
+  <strong>Software Developer</strong> · <strong>Sysadmin</strong>
 </p>
 
 <p align="center">
