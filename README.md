@@ -19,6 +19,3 @@
   <a href="https://t.me/sxalim">Telegram</a> ·
   <a href="https://salimzaidi.pages.dev/">Website</a>
 </p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=zedsalim&show_icons=true&hide_title=true&hide_border=true&theme=highcontrast" alt="GitHub Stats">
-</p>
